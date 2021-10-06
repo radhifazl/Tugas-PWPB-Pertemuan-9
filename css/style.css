@@ -212,12 +212,17 @@ html, body {
         text-align: center;
     }
 
+    .about-img {
+        width: 100%;
+    }
+
+
     .about-img img:nth-child(1) {
-        transform: translateX(-50px);
+        transform: translateX(0);
     }
 
     .about-img img:nth-child(2) {
-        transform: translate(50px, -70px);
+        visibility: hidden;
     }
 }
 
