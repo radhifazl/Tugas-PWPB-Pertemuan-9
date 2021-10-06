@@ -121,7 +121,7 @@ html, body {
     z-index: 2;
 }
 
-:where(.hero-text) h1,h4 {
+.hero-text h1, h4 {
     color: #FFFFFF;
 }
 
