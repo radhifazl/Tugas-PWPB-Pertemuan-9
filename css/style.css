@@ -510,7 +510,7 @@ html, body {
     font-weight: 600;
 }
 
-:where(.footer .footer-text) h1, p {
+.footer .footer-text h1, p {
     color: #888;
 }
 
